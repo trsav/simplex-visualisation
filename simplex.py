@@ -1,5 +1,4 @@
 import numpy as np 
-from functions import * 
 import matplotlib.pyplot as plt 
 from itertools import combinations,product
 from mpl_toolkits.mplot3d import axes3d
