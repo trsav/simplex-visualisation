@@ -3,6 +3,11 @@
 * ###  feel free to fork, experiment, most likely improve!; and
 * ###  much love to the Matplotlib team.
 
+<p align="center">
+  <img src="https://github.com/TomRSavage/simplex_visualisation-/blob/main/simplex.gif" />
+</p>
+
+
 Requires imageio, matplotlib, and numpy. 
 
 Note: when running it will spam images into the folder that it is contained in, do not panic whey will be turned into a gif and removed at the end!
